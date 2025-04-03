@@ -1,16 +1,7 @@
 # petra
 
-A new Flutter project.
+My new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is lightweight and user-friendly app built for quick and precise unit conversions in the oil and gas sector. It supports conversions for pressure (psi, bar, kPa), volume (barrels, cubic meters, gallons), and flow rate (bpd, m³/d, L/s). The app also includes a settings menu where users can personalize their experience by selecting preferred units and themes. Whether you're in the office or out in the field, OilUnitConvert ensures seamless, hassle-free conversions whenever you need them.
